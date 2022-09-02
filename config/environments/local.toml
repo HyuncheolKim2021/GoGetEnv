@@ -1,0 +1,7 @@
+stage = "local"
+
+[database]
+port = 5432
+user = "viper_sample_user"
+password = "password"
+dbname = "viper_development"
